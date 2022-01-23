@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(241, 239, 236, 0.836);
+    color: black;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+.avatar {
+    border-radius: 28px;
+}
+.bg-yellow {
+background: #fff9dc;
+}
+
+.bg-red {
+        background: #ffe5e5;
+        }
+
+
+.card {
+padding: 15px 20px;
+margin-bottom: 20px;
+border-radius: 20px;
+}
